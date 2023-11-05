@@ -35,7 +35,7 @@ cd angular-frontend
 ```bash
 npm install 
 ```
-3. Start the Angular development server:
+3. Start the Angular development server
 ```bash
 ng serve 
 ```
@@ -47,7 +47,7 @@ The application will be accessible on the web server at http://localhost:4200/
 
 - **Update Employee Details:** update and modify existing employee details.
 
-- **Delete Employees:** remove an employee from the system 
+- **Delete Employees:** remove an employee from the system.
 
 - **View Employee Information:** access detailed information about each employee.
 
